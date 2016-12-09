@@ -23,9 +23,9 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '))e8=@fe@q-w3otl9br%g#_+mpbkp)$&y7a7ry1u!7qa+)1y$4'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['cecilis.pythonanywhere.com']
 
 
 # Application definition
