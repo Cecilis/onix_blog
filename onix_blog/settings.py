@@ -25,7 +25,7 @@ SECRET_KEY = '))e8=@fe@q-w3otl9br%g#_+mpbkp)$&y7a7ry1u!7qa+)1y$4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['cecilis.pythonanywhere.com']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', '[::1]','cecilis.pythonanywhere.com']
 
 
 # Application definition
